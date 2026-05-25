@@ -9,7 +9,7 @@ namespace XyanKana
 {
     public partial class XyzKey
     {
-        public const string DefaultApiKey = "09709f9e6aa4c5523ca32070c395e2fcee4890aeadfbdc4d78c69065396ed4d3";
+        public const string DefaultApiKey = "Replace API"; //Thay API Của Bạn Vô Đây
     }
 
     public class XyanAuth
